@@ -1,0 +1,18 @@
+{
+    "name": "sergigp",
+    "authors": [
+        {
+            "name": "Sergi Gonzalez",
+            "email": "sergigp85@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "phpunit/phpunit": "4.0.*@dev"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "" : "src/"
+        }
+    }
+}

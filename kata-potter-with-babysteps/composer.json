@@ -1,0 +1,19 @@
+{
+    "name": "sergigp/katapotter",
+    "authors": [
+        {
+            "name": "Sergi Gonzalez",
+            "email": "sergigp85@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "phpunit/phpunit": "4.0.*@dev",
+        "mockery/mockery": "0.9.*@dev"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "" : "src/"
+        }
+    }
+}
